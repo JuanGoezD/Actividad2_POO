@@ -25,6 +25,7 @@ public class Tarea23 {
         else if (discriminante == 0)  {
             double solucion = -b / (2 * a);
             System.out.println("La solucion de la ecuacion es x = "+solucion);
+        }
         else  {
             System.out.println("La ecuacion no tiene soluciones reales");
         }
